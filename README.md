@@ -155,7 +155,7 @@ This program successfully checks whether a given string is a palindrome using ba
 
 ---
 
-## 2. Concatenation of String
+## 2. Concatenation of String.
 
 ### Theory
 String concatenation is the operation of joining character strings end-to-end. This program reads a first name and a last name from the user and combines them into a full name.
